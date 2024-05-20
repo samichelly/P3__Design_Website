@@ -1,19 +1,25 @@
 # P3__Design_Website
 
-Projet 3 réalisé dans le cadre de la formation OpenClassRooms - Developpeur d'application Python
-Ce projet a pour objectif de designer une application répondant aux besoins du client.
-Cette application consiste à mettre en place une plateforme de soutien scolaire regroupant élèves et bénévoles, ainsi que l'ensemble des outils suivants :
-- Chat entre utilisateurs
-- Agenda individuel
-- Listes de tâches à réaliser
+**Project Description:**
 
-Livrables :
-- Diagramme d'usages UML
-- Users Stories et Critères d'Acceptations
-- Wireframes du website
+This is the third project completed as part of the OpenClassrooms - Python Application Developer training program. The objective of this project is to design an application that meets the client's needs. The application consists of setting up an online tutoring platform that brings together students and volunteers, along with the following tools:
+- Chat feature between users
+- Individual agenda
+- To-do lists
+
+**Deliverables:**
+- UML use case diagram
+- User Stories and Acceptance Criteria
+- Wireframes of the website
+
+**Wireframe Examples:**
+
+Below are examples of wireframes for the website:
 
 
 ![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0001.jpg?raw=true)
-![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0002.jpg?raw=true)
-
-https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0001.jpg?raw=true
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0004.jpg?raw=true)
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0005.jpg?raw=true)
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0006.jpg?raw=true)
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0007.jpg?raw=true)
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0008.jpg?raw=true)
