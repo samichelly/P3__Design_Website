@@ -11,3 +11,9 @@ Livrables :
 - Diagramme d'usages UML
 - Users Stories et Critères d'Acceptations
 - Wireframes du website
+
+
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0001.jpg?raw=true)
+![Wireframe](https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0002.jpg?raw=true)
+
+https://github.com/samichelly/P3__Design_Website/blob/main/images/Chelly_Sami_wireframes_032023_page-0001.jpg?raw=true
